@@ -1,4 +1,4 @@
-import {Route, Navigate} from 'react-router-dom'
+import {Route, Redirect} from 'react-router-dom'
 import React from 'react'
 
 const PrivateRoute = ({children, ...rest}) => {
@@ -6,7 +6,7 @@ const PrivateRoute = ({children, ...rest}) => {
   const authenticated = false
 
   return (
-    <Route{...rest}>{!authenticated ? <Navigate to="/login"></Navigate> : children}</Route>
+    <Route{...rest}>{!authenticated ? <Redirect to="/login"></Redirect> : children}</Route>
   )
 }
 
