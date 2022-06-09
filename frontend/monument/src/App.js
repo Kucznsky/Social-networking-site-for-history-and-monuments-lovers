@@ -1,6 +1,6 @@
 import './App.css';
 import {BrowserRouter as  Router, Route, Switch} from 'react-router-dom';
-import Navbar from './components/navbar/Navbar';
+import Header from './components/header/Header'
 import HomePage from './components/home_page/HomePage';
 import AddPost from './components/add_post/AddPost';
 import UserPosts from './components/user_posts/UserPosts';
@@ -12,7 +12,7 @@ import Comment from './components/Comment'
 function App() {
   return(
     <Router>
-      <Navbar></Navbar>
+      <Header></Header>
       <Switch>
         <Route exact path='/login'>
           <Login></Login>
