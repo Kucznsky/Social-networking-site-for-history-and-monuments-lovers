@@ -5,6 +5,7 @@
 
 body {
   background-color: #d0d0d0;
+  font-family: "Lato";
 }
 
 /*
@@ -133,3 +134,83 @@ body {
 .login_link Link {
   text-decoration: none;
 }
+
+/*==============================================================*/
+
+.booklist {
+  width: 90vw;
+  max-width: 800px;
+  margin: 6rem;
+  display: flex;
+  justify-content:center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.booklist {
+  flex-basis: auto;
+}
+
+@media screen and (min-width: 768px) {
+  .booklist {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.book {
+  background: #F4F4F4;
+  border-radius: 3px;
+  width: 11rem;
+  height: auto;
+  overflow-wrap: break-word;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.book2 {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+}
+
+.book2 > * {
+  margin: 0.5rem;
+}
+
+.book a {
+  text-decoration: none;
+}
+
+.listFirstLine {
+  margin-top: 0.5rem;
+  font-size: 1.5rem;
+  color: #555;
+}
+
+.likes_and_comments {
+  color: #fff;
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+}
+
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #61DBFB;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-top: 0.5rem;
+  padding: 0.2rem;
+  width: 5rem;
+  font-size: 13px;
+}
+/*.book:hover {
+  background: rgba(0, 0, 0, 0.9);
+  padding: 2rem 4rem;
+  width: 12rem;
+  height: auto;
+  box-shadow: 0 8px 16px 0 rgba(59, 89, 601, 0.2),
+    0 6px 20px 0 rgba(59, 89, 601, 0.19);
+  transition: 0.9s;
+}*/

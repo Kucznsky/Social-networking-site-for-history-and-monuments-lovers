@@ -1,4 +1,5 @@
 import './App.css';
+import "@fontsource/lato";
 import {BrowserRouter as  Router, Route, Switch} from 'react-router-dom';
 import Header from './components/header/Header'
 import HomePage from './components/home_page/HomePage';
@@ -29,7 +30,7 @@ function App() {
           <Route exact path='/user_posts'>
             <UserPosts></UserPosts>
           </Route>
-          <Route exact path='/monument_page'>
+          <Route exact path='/monument_page/:id'>
             <MonumentPage></MonumentPage>
           </Route>
           <PrivateRoute exact path='/comment'>
