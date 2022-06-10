@@ -10,7 +10,7 @@ const Monument = (props) => {
         return url.replace('{width}', width).replace('{height}', height)
     }
 
-    const {id, title, localisation, category, thumbnail, username, old_pictures, modern_pictures, links, user_id, comments} = props;  
+    const {id, title, localisation, category, description, thumbnail, username, old_pictures, modern_pictures, links, user_id, comments} = props;  
        
   return (
     <div>
@@ -18,6 +18,8 @@ const Monument = (props) => {
       <Link to={`/user_posts/${id}`}><span><img src={formatImageUrl(thumbnail)} alt=""></img>'<p className='listFirstLine'>{username}</p></span></Link>
       <p className='listSmallerText'>{localisation}</p> 
       <p className='categories'>{category}</p>
+      <img src={thumbnail} alt=''></img>
+      <p className='categories'>{description}</p>
       <fieldset>
         {links.map((link) => (<a href={links}>{links}</a>))}
       </fieldset>
