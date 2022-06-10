@@ -27,7 +27,7 @@ function App() {
           <Route exact path='/'>
             <HomePage></HomePage>
           </Route>
-          <Route exact path='/user_posts'>
+          <Route exact path='/user_posts/:id'>
             <UserPosts></UserPosts>
           </Route>
           <Route exact path='/monument_page/:id'>

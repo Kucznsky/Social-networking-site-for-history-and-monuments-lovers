@@ -7,7 +7,11 @@
             "category": "Palaces and villas",
             "thumbnail": "https://hasajacezajace.com/palac-branickich-bialystok/",
             "likes": 10,
-            "comments": 5
+            "comments": 5,
+            "old_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "modern_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "links":["https://pl.wikipedia.org/wiki/Pa%C5%82ac_Branickich_w_Bia%C5%82ymstoku"],
+            "user_id":1
         },
         {
             "id": 2,
@@ -16,61 +20,81 @@
             "category": "Palaces and villas",
             "thumbnail": "https://hasajacezajace.com/palac-branickich-bialystok/",
             "likes": 10,
-            "comments": 5
-        },
-        {
+            "comments": 5,
+            "old_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "modern_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "links":["https://pl.wikipedia.org/wiki/Pa%C5%82ac_Branickich_w_Bia%C5%82ymstoku"],
+            "user_id":1
+        },       {
             "id": 3,
             "title": "Branicki Palace",
             "localisation": "Bialystok, Podlaskie, Poland",
             "category": "Palaces and villas",
             "thumbnail": "https://hasajacezajace.com/palac-branickich-bialystok/",
             "likes": 10,
-            "comments": 5
-        },
-        {
+            "comments": 5,
+            "old_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "modern_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "links":["https://pl.wikipedia.org/wiki/Pa%C5%82ac_Branickich_w_Bia%C5%82ymstoku"],
+            "user_id":1
+        },       {
             "id": 4,
             "title": "Branicki Palace",
             "localisation": "Bialystok, Podlaskie, Poland",
             "category": "Palaces and villas",
             "thumbnail": "https://hasajacezajace.com/palac-branickich-bialystok/",
             "likes": 10,
-            "comments": 5
-        },
-        {
+            "comments": 5,
+            "old_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "modern_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "links":["https://pl.wikipedia.org/wiki/Pa%C5%82ac_Branickich_w_Bia%C5%82ymstoku"],
+            "user_id":1
+        },       {
             "id": 5,
             "title": "Branicki Palace",
             "localisation": "Bialystok, Podlaskie, Poland",
             "category": "Palaces and villas",
             "thumbnail": "https://hasajacezajace.com/palac-branickich-bialystok/",
             "likes": 10,
-            "comments": 5
-        },
-        {
+            "comments": 5,
+            "old_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "modern_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "links":["https://pl.wikipedia.org/wiki/Pa%C5%82ac_Branickich_w_Bia%C5%82ymstoku"],
+            "user_id":1
+        },       {
             "id": 6,
             "title": "Branicki Palace",
             "localisation": "Bialystok, Podlaskie, Poland",
             "category": "Palaces and villas",
             "thumbnail": "https://hasajacezajace.com/palac-branickich-bialystok/",
             "likes": 10,
-            "comments": 5
-        },
-        {
+            "comments": 5,
+            "old_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "modern_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "links":["https://pl.wikipedia.org/wiki/Pa%C5%82ac_Branickich_w_Bia%C5%82ymstoku"],
+            "user_id":1
+        },       {
             "id": 7,
             "title": "Branicki Palace",
             "localisation": "Bialystok, Podlaskie, Poland",
             "category": "Palaces and villas",
             "thumbnail": "https://hasajacezajace.com/palac-branickich-bialystok/",
             "likes": 10,
-            "comments": 5
-        },
+            "comments": 5,
+            "old_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "modern_pictures":["https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/","https://hasajacezajace.com/palac-branickich-bialystok/"],
+            "links":["https://pl.wikipedia.org/wiki/Pa%C5%82ac_Branickich_w_Bia%C5%82ymstoku"],
+            "user_id":1
+        }
+    ],
+    "user": [
         {
-            "id": 8,
-            "title": "Branicki Palace",
-            "localisation": "Bialystok, Podlaskie, Poland",
-            "category": "Palaces and villas",
-            "thumbnail": "https://hasajacezajace.com/palac-branickich-bialystok/",
-            "likes": 10,
-            "comments": 5
+            "id": 1,
+            "username":"Marek",
+            "email": "marek@gmail.com",
+            "profile_picture":"https://toppng.com/stock-person-png-stock-photo-man-PNG-free-PNG-Images_199118",
+            "password": "admin",
+            "post_id":[1,2,3,4,5,6,7]
         }
     ]
 }
